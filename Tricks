@@ -1,0 +1,9 @@
+to change color : color [00-09]
+to change title : title [whatever title you want to give]
+to change prompt : prompt [whatever prompt you want to give]$G
+to hide files and folder : Attrip +h +s +r [file/folder name]
+to unhide the files and folder : Attrip -h -s -r [file/folder name]
+to copy output of any command into clipboard : [any command ] | clip
+to view command history : F7 key
+to create folder with reserve name : md [reserved name]\
+to get all apps installed in your laptop : wmic product get name
